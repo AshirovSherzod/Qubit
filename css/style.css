@@ -1,0 +1,45 @@
+.btn-products{
+  background-color: #6F2CFF;
+  color: white;
+  height: 40px;
+  width: 189px;
+  border-radius: 30px;
+  border: none;
+  margin-top: 60px;
+}
+
+.btn-booking{
+  background-color: white;
+  color: #6F2CFF;
+  height: 40px;
+  width: 189px;
+  border-radius: 30px;
+  border: none;
+  margin-top: 60px;
+  margin-left: 22px;
+}
+
+.header{
+  background-color:  rgba(169, 169, 169, 0.132);
+  padding-bottom: 101px;
+}
+
+.frame{
+  background-color: #17002E;
+  color: white;
+  width: 492.86px;
+  height: 199px;
+  border-radius: 10px;
+  margin: 1rem;
+  padding: 2rem;
+}
+
+.industry {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 195px;
+  padding-right: 195px;
+  align-items: center;
+  justify-content: center;
+
+}
